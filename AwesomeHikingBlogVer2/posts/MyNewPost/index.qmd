@@ -2,7 +2,7 @@
 title: "This is the first post on my new blog"
 author: "Rasmus Bejder"
 date: "2023-07-25"
-categories: [Larning Quarto]
+categories: [Learning Quarto]
 ---
 
 This is the first post in a Quarto blog. Welcome!
