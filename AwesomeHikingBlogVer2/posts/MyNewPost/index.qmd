@@ -1,8 +1,8 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2023-07-22"
-categories: [news]
+title: "This is the first post on my new blog"
+author: "Rasmus Bejder"
+date: "25-07-2023"
+categories: [Larning Quarto]
 ---
 
 This is the first post in a Quarto blog. Welcome!
