@@ -1,0 +1,14 @@
+---
+title: "This is the first post on my new blog"
+author: "Rasmus Bejder"
+date: "2023-07-25"
+categories: [Learning Quarto]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](ani1.JPG)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Now with a picture of a dog.
+
